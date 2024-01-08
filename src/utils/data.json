@@ -1,0 +1,42 @@
+{
+  "scissors": {
+    "name": "scissors",
+    "image": "/images/icon-scissors.svg",
+    "constX": 0,
+    "constY": -2,
+    "color": "bg-gradient-scissors",
+    "width": "w-[45%]"
+  },
+  "paper": {
+    "name": "paper",
+    "image": "/images/icon-paper.svg",
+    "constX": -2,
+    "constY": -2,
+    "color": "bg-gradient-paper",
+    "width": "w-[45%]"
+  },
+  "rock": {
+    "name": "rock",
+    "image": "/images/icon-rock.svg",
+    "constX": -1,
+    "constY": 0,
+    "color": "bg-gradient-rock",
+    "width": "w-[45%]"
+  },
+  "lizard": {
+    "name": "lizard",
+    "image": "/images/icon-lizard.svg",
+    "constX": 0,
+    "constY": -2,
+    "color": "bg-gradient-lizard",
+    "width": "w-[60%]"
+  },
+  "spock": {
+    "name": "spock",
+    "image": "/images/icon-spock.svg",
+    "constX": 3,
+    "constY": -2,
+    "color": "bg-gradient-cyan",
+    "width": "w-[40%]"
+  }
+}
